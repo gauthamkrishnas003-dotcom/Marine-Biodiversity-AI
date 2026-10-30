@@ -1,0 +1,43 @@
+# Datasets
+datasets/
+
+# Model weights
+models/
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+
+# Generated outputs
+outputs/
+runs/
+*.mp4
+*.avi
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
