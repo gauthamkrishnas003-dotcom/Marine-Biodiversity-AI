@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 from ultralytics import YOLO
 
-MODEL_PATH = "runs/detect/experiments/baseline_v2/weights/best.pt"
+MODEL_PATH = "runs/detect/experiments/merged_v1/weights/best.pt"
 
 st.set_page_config(page_title="Marine Biodiversity AI", page_icon="🌊")
 st.title("🌊 Marine Biodiversity AI")
